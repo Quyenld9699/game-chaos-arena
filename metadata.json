@@ -1,0 +1,5 @@
+{
+  "name": "Chaos Arena: Streamer vs Viewers",
+  "description": "Một trò chơi sinh tồn 2D nơi chủ phòng (Streamer) chiến đấu chống lại quái vật, trong khi Người xem (Viewers) có thể cá cược, triệu hồi quái vật hoặc buff sức mạnh cho người chơi thông qua hệ thống tương tác thời gian thực.",
+  "requestFramePermissions": []
+}
